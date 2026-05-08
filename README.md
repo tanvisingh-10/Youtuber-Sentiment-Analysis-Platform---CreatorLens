@@ -101,7 +101,7 @@ http://localhost:5000
 - The frontend is designed as a lightweight SPA with dynamic route loading
 - The sentiment analyzer uses `vaderSentiment` and classifies comments as positive, neutral, or negative
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 - If the app fails to start, verify the `.env` file contains `YOUTUBE_API_KEY`
 - Confirm Python version is `3.13+`
